@@ -1,4 +1,3 @@
-Certainly! Here's how you can structure the SQL commands into a `README.md` file for your Git repository:
 
 
 # Database Schema and SQL Queries
