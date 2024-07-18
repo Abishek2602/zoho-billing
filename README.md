@@ -1,4 +1,20 @@
+# Design
+This project is Created for a Billing applicate where the user can Do the following actions on the Database.
 
+                    1.Create a bill
+                    2.Report based on time
+                    3.Report based on Customer
+                    4.Report based on product
+                    5.Generate an Invoice
+                    6.Report based on bill amount
+                    7.Insert a Product or List products
+                    8.List Customer details
+                    9.List All Bills
+                    10.Paid Bills
+                    11.Customer Balance
+                    12.Update the Bill
+
+    This Project uses Four schemas named as product, customer, bill and bill_items.
 
 # Database Schema and SQL Queries
 
