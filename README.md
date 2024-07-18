@@ -1,6 +1,6 @@
 Certainly! Here's how you can structure the SQL commands into a `README.md` file for your Git repository:
 
-```markdown
+
 # Database Schema and SQL Queries
 
 This repository contains SQL scripts for creating tables and performing queries on a hypothetical billing system database. Below are the SQL commands organized for clarity and usage.
@@ -97,6 +97,4 @@ select * from bill where tot_price > xx;
 ## Notes
 - Modify `xx`, `yyyy`, `xxxx-yy-zz`, `xxxxxxxxxx`, and other placeholders with actual values according to your database schema and data.
 - Ensure foreign key constraints and data integrity are maintained when inserting or updating records.
-```
 
-This `README.md` file provides a structured overview of your database schema and example queries, making it easier for collaborators or users to understand and utilize the SQL scripts in your repository. Adjust the placeholders (`xx`, `yyyy`, etc.) with actual values pertinent to your database schema and use case.
