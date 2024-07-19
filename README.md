@@ -16,6 +16,11 @@ This project is Created for a Billing applicate where the user can Do the follow
 
     This Project uses Four schemas named as product, customer, bill and bill_items.
 
+    The Project contains two java file where the file named BillingSystem.java will display the 
+    Options to the user and Promot the informations from the user.
+
+    where the anothe file named DatabaseHandler.java will receive the prompted infromation from the BillSystem file and do Opertaions then update the database and display the Output i terminal.
+
 # Database Schema and SQL Queries
 
 This repository contains SQL scripts for creating tables and performing queries on a hypothetical billing system database. Below are the SQL commands organized for clarity and usage.
